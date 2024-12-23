@@ -11,6 +11,8 @@ public class List {
       al.add(1);
       al.add(2);
       al.add(3);
+      al.add(4);
+      al.add(5);
       System.out.println(al);
       
       System.out.println(al.get(1));
