@@ -15,6 +15,7 @@ public class ConstructorEx
 }
 class Student
 {
+	System.out.println("hello ");
 	int sid;
 	String sname;
 	
