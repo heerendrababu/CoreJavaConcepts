@@ -13,6 +13,7 @@ public class MapExample
       HashMap<Character,Integer> hm = new HashMap<Character,Integer>();
       for(int i=0;i<=s.length()-1;i++)
       {
+		System.out.println("helo chinna");
     	  if(hm.containsKey(s.charAt(i))==true)
     	  {
     		  int val =hm.get(s.charAt(i));
